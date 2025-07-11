@@ -1,4 +1,4 @@
-# CaptchaKiller
+# **AutoCaptcha**
 
 > 🚀 一个基于 Python、ddddocr 和 AIOHTTP 的轻量级验证码识别 API 服务，支持算术验证码和多种字符集的通用 OCR 识别。
 

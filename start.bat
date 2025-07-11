@@ -1,1 +1,1 @@
-python code_ocr_server.py
+python auto_captcha.py
