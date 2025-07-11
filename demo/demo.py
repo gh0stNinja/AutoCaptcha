@@ -28,7 +28,6 @@ AUTH_KEY = load_auth_key()
 def ocr_png_code(data: bytes) -> str:
     hosts = [
         "http://127.0.0.1:58888",
-        "http://112.124.71.123:58888"
     ]
 
     base64_data = base64.b64encode(data).decode("utf-8")
@@ -61,5 +60,5 @@ def main(png):
     else:
         print(f"{png} 请求失败")
 
-for png in ["1.png", "2.png", "3.png"]:
+for png in ["1.png", "2.png"]:
     main(png)
