@@ -23,15 +23,6 @@
 
 ---
 
-## 🗂️ 项目结构
-
-CaptchaKiller/
- ├── captcha_api.py         # 主程序
- ├── auth_keys.json         # 授权密钥文件
- ├── README.md              # 使用说明
-
----
-
 ## ⚙️ 快速开始
 
 ### 1️⃣ 安装依赖
