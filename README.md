@@ -44,7 +44,7 @@ pip install ddddocr aiohttp pillow numpy opencv-python scikit-learn
 ### 3️⃣ 运行服务
 
 ```
-python code_ocr_server.py -p 58888
+python auto_captcha.py -p 58888
 ```
 
 ------
